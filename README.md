@@ -1,1 +1,1 @@
-# .github
+voyahchat.ru public content
